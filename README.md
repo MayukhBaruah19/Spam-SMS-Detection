@@ -23,9 +23,9 @@ Ham prediction :
 [Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 # How to run ? 
 - Clone the repository
-```Bash
-git clone https://github.com/MayukhBaruah19/Spam-SMS-Detection.git
-```
+  ```Bash
+  git clone https://github.com/MayukhBaruah19/Spam-SMS-Detection.git
+  ```
 - Create a conda environment after opening the repository and activate it
   
   ```Bash
